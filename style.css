@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Kreon');
+html, body {
+  background-image: url("SHREK_1.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  margin-left: 0;
+  font-family: "Kreon";
+  color: rgb(0,200,0);
+}
+.container-fluid {
+  padding-top: 20rem;
+}
